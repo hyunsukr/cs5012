@@ -3,6 +3,12 @@
 ---  
 
 ### Admin Items
+- 1.4 Module 1 Quiz - version2  
+  Due date: 06/12/2022 11:59 pm  
+  Where: Collab tab - Tests & Quizzes  
+  Topics: Same as Quiz 1 with similar/same questions  
+  Grading of Quiz 1: max(version1, version2)  
+  This won't reflex on Collab, but instructor will compute
 
 ---  
 
@@ -11,12 +17,18 @@
 ---  
 ### Review M2.2 Course Content 
 
+**Searching**  
+- Searching algos deck, starting on p5  
+Binary search - complexity O(log n)  
+
 **Sorting**  
-Many differents algos and approaches presented
-sorting is often a first step to search (binary search)
+- Sorting algos deck, starting on slide 3  
+Briefly discuss *sorting stability*  
+Many different algos and approaches presented  
+sorting is often a first step to search (binary search)  
 
 **Merge sort**  
-divide-and-conquer algo
+- Divide-and-conquer algo; Sorting algos deck, starting p41; diagram p49  
 one of the most efficient sorting algorithms  
 good time complexity in worst and average cases: O(n log n)  
 pay close attention to this algo
@@ -34,7 +46,7 @@ data accessed: directly by using pointer arithmetic
 size: not specified in advance  
 data accessed: only by traversing the list
 
-Python lists are implemented as dynamic arrays  
+Python lists are implemented as [dynamic arrays](https://en.wikipedia.org/wiki/Dynamic_array)  
 
 ---  
 
