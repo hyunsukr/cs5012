@@ -19,13 +19,23 @@ Highly constrained (discuss)
 Very useful for searching data w expected runtime O(log n)   
 Shortcomings: can get unbalanced, can produce worst case runtime O(n)
 
+> Review deck: Binary Search Tree; in particular 
+  - insert node - slide18
+  - delete node (at end)
+
 **Heap**  
 Not useful for searching for data values  
 Useful for finding max (max heap) or min (min heap)  
 More constraints than BST: shape and order properties  
 Can be stored in an array
 
-**Python module `heapq`**  
+> Review deck: Binary Heaps
+  - start at slide20
+  - slide28 shows good valid/invalid examples
+  - inserting into heap
+  - deleting from heap
+
+> Review jupyter nb: `heapq`
 
 ---  
 
