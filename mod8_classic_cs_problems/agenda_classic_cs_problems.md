@@ -3,6 +3,10 @@
 ---  
 
 ### Admin Items  
+- Aug 3 Live Session will be held Monday Aug 1 from 8:30pm-9:30pm ET and recorded (I am traveling)
+- Final Module 11 runs Aug 1-11. During Aug 10 Live Session, we can discuss:
+  - content questions
+  - ask me anything about data science 
 
 ---  
 
@@ -20,7 +24,7 @@ Important concepts:
 - residual graph captures additional flow possible
 - forward edge
 - backward edge
-- augmented path
+- augmenting path
 
 **Reductions**
 > Walk through Reductions deck, explaning:
